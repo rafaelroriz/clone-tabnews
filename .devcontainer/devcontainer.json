@@ -17,6 +17,13 @@
 			"ppa": true,
 			"version": "latest"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"EditorConfig.EditorConfig"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
